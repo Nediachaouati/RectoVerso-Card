@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "id": "1efbc56a-2999-4d5c-b14f-896650e8585b",
+      "question": "C'est quoi HTML ?",
+      "answer": "HTML est un langage de balisage"
+    },
+    {
+      "id": "15fb1743-b2da-4b5a-a6c2-8ee9809d67f4",
+      "question": "C'est quoi CSS ?",
+      "answer": "CSS est un langage de style "
+    },
+    {
+      "id": "d64d3e6d-2aa2-4b70-839c-54099f4041ab",
+      "question": "C'est quoi JavaScript?",
+      "answer": "JS est un langage de programmation"
+    },
+    {
+      "id": "d4f58332-0845-43a5-bf2f-d21a1a9adf82",
+      "question": "1",
+      "answer": "2"
+    }
+  ]
+}
